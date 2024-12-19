@@ -1,0 +1,1 @@
+In a Firebase project, I encountered an issue where data wasn't being written to the database consistently.  The `set()` method appeared to succeed, but the data wasn't reflected in the database.  The issue was intermittent, and sometimes data would write correctly.
